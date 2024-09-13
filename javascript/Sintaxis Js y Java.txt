@@ -1,0 +1,86 @@
+Sintaxis similares entre Java y JavaScript.
+<<<<<<< HEAD
+-Operadores Simplificados:
+=======
+-Operadores Simplificados/Compuestos:
+>>>>>>> ramajs
++=
+-=
+*=
+/=
+<<<<<<< HEAD
+=======
+%=
+**=
+
+>>>>>>> ramajs
+-Operadores Aritméticos:
++
+-
+*
+/
+<<<<<<< HEAD
+-Operadores de Asingnación:
+=
+-Operadores de Comparación:
+==
+=======
+% // Residuo.
+** // Exponente.
+
+-Operadores de Asingnación:
+=
+Los operadores simplificados también asignan. 
+
+-Operadores de Comparación(Boolena):
+== Revisa el valor sin importar el tipo de dato.
+=== Revisa el valor y el tipo también en js.
+// Este operador se lo llama de igualdad estricta.
+>>>>>>> ramajs
+
+-Documentar:
+// = Para una línea de comentario.
+/* */ = Para múltiples líneas de comentario.
+
+-Secuencias de Escape:
+\' = Mostrar una comilla simple dentro de una cadena en la salida de información.
+\" = Mostrar doble comilla dentro de una cadena en la salida de información.
+\\ = Barra invertida, diagonal inversa; es para mostrar una back slash.
+\n = Esto es un salto de línea.
+\r = Retorno.
+\t = Tabulación.
+\b = Retroceso.
+\f = Salto de página.
+
+-Operador de Aumento:
+++
+<<<<<<< HEAD
+-Operador de Decremento:
+--
+-
+=======
+Ejemplo: Let z = ++a; // PreIncremento.
+Ejemplo: z = a++; // PosIncremento. 
+
+-Operador de Decremento:
+--
+Ejemplo: Let z = --a; // PreDecremento.
+Ejemplo: z = a--; // PosDecremento.
+
+-Operador Distinto/Diferente(Boolean):
+!= // Comprueba valores sin revisar el tipo.
+!== // Comprueba el valor y también el tipo.
+
+-Operadores Relacionales(Boolean):
+<
+>
+<=
+>=
+>>>>>>> ramajs
+<<<<<<< HEAD
+=======
+
+-Operadores Lógicos:
+And -> && Double Aspersan.
+Or  -> 
+>>>>>>> ramajs
